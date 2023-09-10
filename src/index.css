@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@500&family=Oswald:wght@300;400&display=swap');
+ body{
+   background-color: #131722;
+  color: white !important;
+  font-family: 'Oswald';
+ }
+ input{
+  background-color: transparent !important;
+  color: white !important;
+ }
+ a , a:hover{
+  text-decoration: none;
+  color: white;
+ }
